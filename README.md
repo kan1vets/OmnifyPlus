@@ -4,7 +4,8 @@ Multi-cloud file manager and media downloader (Google Drive, Yandex Disk, YouTub
 
 <div align="center">
 
-# ⚡ Omnify+ (ver. 2.0)
+<img width="1920" height="540" alt="Шапка GitHub" src="https://github.com/user-attachments/assets/c45d3ac5-7b93-4456-8349-2fb15abd9a86" />
+
 
 **Omnify+** — универсальный десктопный медиа-комбайн, менеджер загрузок и проводник облачных хранилищ для Windows, написанный на Python (PyQt6). Создан для быстрой работы с большими объёмами данных, прямого переноса файлов между облаками, скачивания папок без принудительной архивации в ZIP и загрузки видео в высоком качестве.
 
